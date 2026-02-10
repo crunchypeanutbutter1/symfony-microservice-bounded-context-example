@@ -1,9 +1,9 @@
-# Symfony Bounded Context Microservice Stryle
+# Symfony Bounded Context Microservice Style
 
 This is a minimal Symfony distribution
 to implement a bounded context inside a micro-service architecture.
 
-**Plese note**: It's not a DDD proof of concepts, therefore the domain is "poor" and it doesn't reflect a real scenario!!
+**Please note**: It's not a DDD proof of concept; therefore, the domain is "poor" and does not reflect a real scenario!
 
 ## The Story
 
@@ -19,7 +19,7 @@ It only contains the following bundles:
 After started with  monolithic solution, the Team have decided to split
 the application into 5 "Micro"Service (so far).
 
-Each Bounder Context will be a separate application, with a separate database and
+Each Bounded Context will be a separate application, with a separate database and
 independently deployable.
 
 The codebase was entirely developed with Symfony.
